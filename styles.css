@@ -1,0 +1,19 @@
+#navbarDropdown{
+    color: gray;
+}
+
+#logo{
+    font-family: 'Oleo Script', 'cursiva';
+    color: gray;
+}
+
+div{
+    box-sizing: border-box;
+}
+body{
+    background: silver;
+    margin: 0;
+}
+.card-group img{
+    margin: auto;
+}
